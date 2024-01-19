@@ -10,8 +10,9 @@ Contact:
 - Discord : Codeur_gameur#0034
 
 
-Favourite quote :
-  "Programming isn't about what you know, it's actually about what you can figure out."
+
+  You may be depressed. You may be desperated. You may be heartbroken. All this is gonna leave a mark.
+  This mark can be the foundation of your success. But it can also be the cause of your failure. It's up to you.
 
 <!---
 Zboubix/Zboubix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
