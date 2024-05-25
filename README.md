@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming (of course :D), chess, guitar and math
 - 🌱 I go to the gym and I like to do some stuff on a pull up bar :)
 
-Math classes in 10th grade are just too easy hence boring, so I'm developing games and other apps on my calculator :D
+
 
 Contact:
 - https://lichess.org/@/Codeur_gameur 
